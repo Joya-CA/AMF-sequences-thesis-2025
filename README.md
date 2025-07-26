@@ -40,7 +40,7 @@ After a 17 week growing period, samples were taken from each mesocosms and seque
 | `raw_reads.fastq.gz`  | Raw paired-end Illumina MiSeq reads (gzip-compressed FASTQ)   |
 | `METADATA.tsv`        | Sample metadata including treatment, mesocosm ID, and harvest date|
 
-- ** Importing Convention:** `Cassava1.8: demultiplexed, paired-end raw sequences`
+- ** Importing Convention: `Cassava1.8: demultiplexed, paired-end raw sequences` **
   
 
 ## References
