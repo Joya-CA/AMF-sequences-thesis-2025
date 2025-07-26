@@ -1,9 +1,6 @@
 # AMF-sequences-thesis-2025
-Sequences of a local AMF community from three locations in the Okanagan, British Columbia
-
-## Project Objective
 This project investigated whether the introduction of intraspecific variation in arbuscular mycorrhizal fungi (AMF) affects a local AMF community. 
-Soil samples were collected from vineyard sites in the Okanagan region of British Columbia, Canada. Soils were pooled and used as growing media in mesocosms containing a mixed plant community.
+Soil samples were collected from three vineyard sites in the Okanagan region of British Columbia, Canada. Soils were pooled and used as growing media in mesocosms containing a mixed plant community.
 After a 17 week growing period, samples were taken from each mesocosms and sequenced using a semi-nested appraoch with AMF specific primers.
 
 ## Sample Information
