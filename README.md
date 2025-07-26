@@ -21,8 +21,8 @@ After a 17 week growing period, samples were taken from each mesocosms and seque
 ### Primer Region
 - **Targeted Region:** SSU rRNA  
 - **Semi-nested PCR:**
-  - **Round 1:** AML1 (forward) & AML2 (reverse) — *Lee et al., 2008*  
-  - **Round 2:** WANDA (forward) & AML2 (reverse) — *Dumbrell et al., 2011*
+  - **Round 1:** AML1 (forward) & AML2 (reverse) - Lee et al., 2008 
+  - **Round 2:** WANDA (forward) & AML2 (reverse) - Dumbrell et al., 2011
 
 ### PCR Conditions
 - **Round 1 followed Lee et al. (2008)**
