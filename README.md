@@ -15,8 +15,7 @@ After a 17 week growing period, samples were taken from each mesocosms and seque
 - **Collection Date:** November 10, 2023
   
 ## DNA Extraction and PCR
-- **DNA Extraction:** QIAGEN DNeasy PowerSoil Kit  
-- **Elution Volume:** 30 µL  
+- **DNA Extraction:** QIAGEN DNeasy PowerSoil Kit (0.2 g samples)
 - **PCR Cleanup Kit:** QIAquick PCR Purification Kit (Qiagen Inc.)  
 
 ### Primer Region
